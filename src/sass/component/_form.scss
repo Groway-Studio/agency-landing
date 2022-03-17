@@ -1,0 +1,29 @@
+@import "./../base/_base.scss";
+
+.formComponent {
+  margin-top: 242px;
+  @include tablet {
+    margin-top: 412px;
+  }
+  @include phone{
+    margin-top:382px;
+  }
+  
+  section {
+    width: $container;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    @include tablet {
+      width: $container-tablet;
+      flex-direction: column-reverse;
+    }
+    @include phone{
+      width: $container-phone;
+      flex-direction: column-reverse;
+    }
+
+  }
+}
