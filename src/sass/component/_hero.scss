@@ -2,7 +2,6 @@
 
 .heroComponent {
   width: $container;
-  height: 645px;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -10,6 +9,7 @@
   margin: 0 auto;
   position: relative;
   z-index: 100;
+  margin-top: 82px;
   @include tablet {
     width: $container-tablet;
     flex-direction: column;
