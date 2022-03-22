@@ -22,9 +22,9 @@ export default function Hero() {
           <div className="cta-socials">
             <ButtonComponent label="Conversemos" />
             <div>
-              <a target="_blank" href="https://www.instagram.com/groway.studio/"><img src={igIlus} alt="Instagram Groway" /></a>
-              <a target="_blank" href="https://www.linkedin.com/company/growaystudio/"><img src={linkedinIlus} alt="Linkedin Groway" /></a>
-              <a target="_blank" href="https://www.facebook.com/groway.studio"><img src={fbIlus} alt="Facebook Groway" /></a>
+              <a target="_blank" rel="noopener" href="https://www.instagram.com/groway.studio/"><img src={igIlus} alt="Instagram Groway" /></a>
+              <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/growaystudio/"><img src={linkedinIlus} alt="Linkedin Groway" /></a>
+              <a target="_blank" rel="noopener" href="https://www.facebook.com/groway.studio"><img src={fbIlus} alt="Facebook Groway" /></a>
             </div>
           </div>
         </div>

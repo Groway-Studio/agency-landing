@@ -1,9 +1,9 @@
 import React from "react";
-import { Box, Typography } from "@material-ui/core";
+import { Box } from "@material-ui/core";
 import LogoGroway from "./../../assets/logo-groway.png";
 import "./../../sass/shared/_header.scss";
 import headerBg from "./../../assets/blob-header.svg";
-import { Link, animateScroll as scroll } from "react-scroll";
+import {  animateScroll as scroll } from "react-scroll";
 
 class Header extends React.Component {
   scrollToSection = () => {

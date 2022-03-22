@@ -5,7 +5,7 @@ import linkedinIlus from "./../assets/linkedin.svg";
 import igIlus from "./../assets/instagram.svg";
 import ButtonComponent from "./shared/button";
 
-import { Form, FormGroup, Label, Input,TextArea, Message } from "./shared/forms";
+import { Form, FormGroup, Label, Input,TextArea } from "./shared/forms";
 
 export default function FormContact() {
   return (
@@ -53,22 +53,18 @@ export default function FormContact() {
                 <FormGroup>
                   <Label htmlFor="label">¿Cuál es tu nombre?*</Label>
                   <Input id="label" />
-                  {/* <Message>This is the validation message</Message> */}
                 </FormGroup>
                 <FormGroup>
                   <Label>¿Cuál es tu el sitio web de tu empresa?</Label>
                   <Input />
-                  {/* <Message>This is the validation message</Message> */}
                 </FormGroup>
                 <FormGroup>
                   <Label>Tu mensaje</Label>
                   <TextArea />
-                  {/* <Message>This is the validation message</Message> */}
                 </FormGroup>
                 <FormGroup>
                   <Label>¿Cómo nos contactamos contigo?*</Label>
                   <Input />
-                  {/* <Message>This is the validation message</Message> */}
                 </FormGroup>
                 <ButtonComponent label="Enviar" />
               </Form>
