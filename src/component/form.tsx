@@ -30,18 +30,21 @@ export default function FormContact() {
               <div className="socials">
                 <a
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://www.instagram.com/groway.studio/"
                 >
                   <img src={igIlus} alt="Instagram Groway" />
                 </a>
                 <a
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://www.linkedin.com/company/growaystudio/"
                 >
                   <img src={linkedinIlus} alt="Linkedin Groway" />
                 </a>
                 <a
                   target="_blank"
+                  rel="noopener noreferrer"
                   href="https://www.facebook.com/groway.studio"
                 >
                   <img src={fbIlus} alt="Facebook Groway" />
