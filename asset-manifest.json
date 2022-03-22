@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.235185a6.css",
+    "main.js": "/static/js/main.8fdcc319.js",
+    "static/media/ilus-hero.svg": "/static/media/ilus-hero.7684b8b33b3018d5140eb3c6fe7ab75d.svg",
+    "static/media/ic-socials-1.svg": "/static/media/ic-socials-1.6c81e7a2ddaa7d0561f2f054349a3375.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.975bb0dbee9c29d242966879ee0af44c.svg",
+    "static/media/instagram.svg": "/static/media/instagram.493b4d2e5ef85d0ade528ce24c1570a2.svg",
+    "static/media/ic-socials.svg": "/static/media/ic-socials.ac01121793444ac3eb7abaad6ec6f104.svg",
+    "static/media/fb.svg": "/static/media/fb.aa0e82e17134bdf6f7c2ea988210378f.svg",
+    "static/media/ic-socials-2.svg": "/static/media/ic-socials-2.46c826c6594121dc48e86a7bc917a3c5.svg",
+    "index.html": "/index.html",
+    "static/media/blob-header.svg": "/static/media/blob-header.40bf460f070ed3d8fb2ca2ada5514803.svg",
+    "main.235185a6.css.map": "/static/css/main.235185a6.css.map",
+    "main.8fdcc319.js.map": "/static/js/main.8fdcc319.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235185a6.css",
+    "static/js/main.8fdcc319.js"
+  ]
+}
