@@ -33,7 +33,7 @@ body{
 
 h1{
   font-size: var(--title-h1);
-  line-height: 90px;
+  line-height: 70px;
   @include phone {
     font-size: var( --size-4);
     line-height: 42px;   
